@@ -11,5 +11,6 @@ public class HelloGit {
         System.out.println("Hello Git4!");
         System.out.println("hot fix test");
         System.out.println("更新1");
+        System.out.println("master1");
     }
 }
