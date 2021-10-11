@@ -12,6 +12,7 @@ public class HelloGit {
         System.out.println("hot fix test");
         System.out.println("更新1");
         System.out.println("分支");
+        System.out.println("分支2");
 
     }
 }
