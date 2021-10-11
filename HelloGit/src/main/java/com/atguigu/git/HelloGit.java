@@ -14,5 +14,6 @@ public class HelloGit {
         System.out.println("分支");
         System.out.println("分支2");
 
+        System.out.println("master1");
     }
 }
